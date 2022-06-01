@@ -28,3 +28,4 @@ describe("A função getPokemonDetails", () => {
     getPokemonDetails((pokemon) => pokemon.name === 'Charmander', callback);
   });
 });
+// adcionando extra para teste
