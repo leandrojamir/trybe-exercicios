@@ -16,3 +16,4 @@ const fetchJoke = () => {
 };
 
 window.onload = () => fetchJoke();
+//linha para git add
