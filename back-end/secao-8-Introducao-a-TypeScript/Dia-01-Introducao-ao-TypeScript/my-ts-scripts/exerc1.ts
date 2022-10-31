@@ -33,3 +33,4 @@ createdAt: ${createdAt}`);
 }
 
 characters.forEach(printCharacter);
+//end
