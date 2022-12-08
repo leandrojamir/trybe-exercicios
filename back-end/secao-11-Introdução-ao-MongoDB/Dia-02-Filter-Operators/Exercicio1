@@ -1,0 +1,6 @@
+O MongoDB possui diversas ferramentas. Por exemplo, o mongo, o mongosh, o Compass e outras ferramentas de terceiros. Você pode utilizar aquela que achar melhor para executar as consultas (queries), o importante é realizá-las.
+
+🚀 Exercício 1: Inspecione um documento para que você se familiarize com a estrutura. Entenda os atributos e os níveis existentes.
+
+use class;
+db.superheroes.findOne();
