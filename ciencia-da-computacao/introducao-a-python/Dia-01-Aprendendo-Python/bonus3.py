@@ -15,6 +15,7 @@
 # preço do litro da gasolina é R$ 2,50,
 #  e o preço do litro do álcool é R$ 1,90.
 
+
 def fuel_price(type, liters):
     if type == "A":
         price = 1.90
