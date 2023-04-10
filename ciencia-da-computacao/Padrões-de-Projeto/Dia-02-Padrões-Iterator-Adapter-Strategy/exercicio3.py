@@ -4,7 +4,7 @@
 # ordem inversa. Ou seja, sem embaralhar, a primeira carta deve ser o
 # <K de paus> em vez do <A de copas>, como acontece na implementação atual.
 from collections.abc import Iterator
-from exercicio2 import Baralho
+from .exercicio2 import Baralho
 
 
 class IteradorDoBaralhoInverso(Iterator):
