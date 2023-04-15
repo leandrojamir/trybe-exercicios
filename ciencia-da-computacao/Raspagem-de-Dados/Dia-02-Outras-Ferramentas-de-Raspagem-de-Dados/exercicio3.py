@@ -1,7 +1,7 @@
 # Exercício 3
-# Utilizando a ferramenta Selenium, no site “https://diolinux.com.br/“, faça a
-# extração dos campos título, link para o post, trecho exibido de cada post da
-# página inicial.
+# Utilizando a ferramenta Selenium, no site “https://diolinux.com.br/“,
+# faça a extração dos campos título, link para o post, trecho exibido
+# de cada post da página inicial.
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
