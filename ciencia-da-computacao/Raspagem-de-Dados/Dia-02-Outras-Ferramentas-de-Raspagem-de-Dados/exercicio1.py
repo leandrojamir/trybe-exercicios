@@ -1,4 +1,3 @@
-
 # Exercício 1
 # Com o Selenium, faça uma requisição para o endpoint
 # “https://quotes.toscrape.com/“ e imprima a primeira citação que aparece na
