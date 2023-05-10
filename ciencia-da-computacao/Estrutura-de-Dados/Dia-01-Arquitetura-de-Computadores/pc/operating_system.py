@@ -35,9 +35,9 @@ main_get_init_time = perf_counter()
 main_sum = sum([main.get(i) for i in range(len(RANDOM_NUMBERS))])
 timer(f"Soma na memória principal: {main_sum}", main_get_init_time)
 
-main_clean_init_time = perf_counter()
-main.clean()
-timer("Clean na memória principal", main_clean_init_time)
+# main_clean_init_time = perf_counter()
+# main.clean()
+# timer("Clean na memória principal", main_clean_init_time)
 
 
 # Desempenho da memória secundária
@@ -50,6 +50,6 @@ secondary_get_init_time = perf_counter()
 secondary_sum = sum([secondary.get(i) for i in range(len(RANDOM_NUMBERS))])
 timer(f"Soma na memória secundária: {secondary_sum}", secondary_get_init_time)
 
-secondary_clean_init_time = perf_counter()
-secondary.clean()
-timer("Clean na memória secundária", secondary_clean_init_time)
+# secondary_clean_init_time = perf_counter()
+# secondary.clean()
+# timer("Clean na memória secundária", secondary_clean_init_time)

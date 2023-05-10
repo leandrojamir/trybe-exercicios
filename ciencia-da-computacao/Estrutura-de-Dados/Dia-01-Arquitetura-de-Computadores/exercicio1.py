@@ -186,16 +186,23 @@
 
 
 # 7) Agora, vamos reforçar mais um conteúdo aprendido:
-
-
-# 8) Comente os trechos de código que fazem a operação de limpeza (clean) da
+# Comente os trechos de código que fazem a operação de limpeza (clean) da
 # memória.
+# Execute o comando novamente
+# Números carregados na memória principal
+# Tempo para a tarefa terminar: 0.000169
+
+# Soma na memória principal: 24242400.0
+# Tempo para a tarefa terminar: 0.000279
+
+# Números carregados na memória secundária
+# Tempo para a tarefa terminar: 0.100197
+
+# Soma na memória secundária: 24242400.0
+# Tempo para a tarefa terminar: 0.023079
 
 
-# 9) Execute o comando novamente
-
-
-# 10) Comente os trechos de código que fazem a operação de carregamento (load)
+# 8) Comente os trechos de código que fazem a operação de carregamento (load)
 # da memória e execute novamente.
 
 
