@@ -166,6 +166,23 @@
 # linha que declara a lista RANDOM_NUMBERS, para multiplicar a quantidade de
 # elementos na lista. Rode o script novamente. Como foi o tempo de resposta
 # agora? Deu diferença, né? Qual foi mais rápido?!
+# Números carregados na memória principal
+# Tempo para a tarefa terminar: 0.000179
+
+# Soma na memória principal: 24242400.0
+# Tempo para a tarefa terminar: 0.000262
+
+# Clean na memória principal
+# Tempo para a tarefa terminar: 0.000009
+
+# Números carregados na memória secundária
+# Tempo para a tarefa terminar: 0.097795
+
+# Soma na memória secundária: 24242400.0
+# Tempo para a tarefa terminar: 0.022068
+
+# Clean na memória secundária
+# Tempo para a tarefa terminar: 0.012799
 
 
 # 7) Agora, vamos reforçar mais um conteúdo aprendido:
