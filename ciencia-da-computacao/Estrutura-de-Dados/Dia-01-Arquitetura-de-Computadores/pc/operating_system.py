@@ -10,7 +10,11 @@ main = MainMemory()
 secondary = SecondaryMemory()
 
 # Números aleatórios a serem somados
-RANDOM_NUMBERS = ["36912", "84300"] * 100
+# RANDOM_NUMBERS = ["36912", "84300"] * 100
+
+# 6) Para deixar nosso script ainda mais legal, vamos aumentar a quantidade de
+# números para serem somados.
+RANDOM_NUMBERS = ["36912", "84300"] * 200
 
 
 def timer(string, initial_time):
