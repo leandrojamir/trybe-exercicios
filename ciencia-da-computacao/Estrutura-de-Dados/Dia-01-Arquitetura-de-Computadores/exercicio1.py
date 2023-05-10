@@ -204,6 +204,8 @@
 
 # 8) Comente os trechos de código que fazem a operação de carregamento (load)
 # da memória e execute novamente.
+# Soma na memória principal: 0
+# Tempo para a tarefa terminar: 0.000311
 
-
-# 11) Compare os resultados das somas. O que aconteceu?
+# Clean na memória principal
+# Tempo para a tarefa terminar: 0.000017
