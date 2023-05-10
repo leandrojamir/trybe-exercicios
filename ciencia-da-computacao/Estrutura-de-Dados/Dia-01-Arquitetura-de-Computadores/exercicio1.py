@@ -134,8 +134,31 @@
 # secondary.clean()
 # timer("Clean na memória secundária", secondary_clean_init_time)
 
+
 # 5) Vamos testar nosso script! Execute o comando python operating_system.py e
 # veja a saída no console. Deu certo?! Como foram os tempos de saída?!
+
+# jamir@jamir-X550CA:~/trybe-exercicios/ciencia-da-computacao/
+# Estrutura-de-Dados/Dia-01-Arquitetura-de-Computadores/
+# pc$ python3 operating_system.py
+# Números carregados na memória principal
+# Tempo para a tarefa terminar: 0.000171
+
+# Soma na memória principal: 12121200.0
+# Tempo para a tarefa terminar: 0.000175
+
+# Clean na memória principal
+# Tempo para a tarefa terminar: 0.000018
+
+# Números carregados na memória secundária
+# Tempo para a tarefa terminar: 0.055655
+
+# Soma na memória secundária: 12121200.0
+# Tempo para a tarefa terminar: 0.011503
+
+# Clean na memória secundária
+# Tempo para a tarefa terminar: 0.008270
+
 
 # 6) Para deixar nosso script ainda mais legal, vamos aumentar a quantidade de
 # números para serem somados. Adicione uma grande quantidade de números no
@@ -144,14 +167,19 @@
 # elementos na lista. Rode o script novamente. Como foi o tempo de resposta
 # agora? Deu diferença, né? Qual foi mais rápido?!
 
+
 # 7) Agora, vamos reforçar mais um conteúdo aprendido:
+
 
 # 8) Comente os trechos de código que fazem a operação de limpeza (clean) da
 # memória.
 
+
 # 9) Execute o comando novamente
+
 
 # 10) Comente os trechos de código que fazem a operação de carregamento (load)
 # da memória e execute novamente.
+
 
 # 11) Compare os resultados das somas. O que aconteceu?
