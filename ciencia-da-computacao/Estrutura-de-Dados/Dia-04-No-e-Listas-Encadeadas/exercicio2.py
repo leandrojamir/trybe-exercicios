@@ -6,6 +6,7 @@
 # Caso o valor não exista, considere retornar -1. Esta função deve respeitar
 # a complexidade O(n).
 
+
 def index_of(self, value):
     position = 1
     current_value = self.head_value
@@ -15,3 +16,9 @@ def index_of(self, value):
         current_value = current_value.next
         position += 1
     return -1
+
+
+# Faça a análise de complexidade da sua solução.
+
+#  O método index_of percorre a lista toda, e por isso sua Complexidade de
+# tempo é O(n).
