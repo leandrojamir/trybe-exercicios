@@ -89,3 +89,19 @@ class LinkedList:
         if value_to_be_returned:
             value_returned = Node(value_to_be_returned.value)
         return value_returned
+
+
+#  Faça a análise de complexidade da sua solução.
+
+#  O método __get_node_at realiza a busca de um item em qualquer
+# local da lista, portanto sua Complexidade de tempo é O(n).
+#  O método insert_at realiza a inserção de um item em qualquer
+# lugar da lista, portanto sua Complexidade de tempo é O(n).
+#  O método insert_last realiza a inserção de um item no
+# final da lista, portanto sua Complexidade de tempo é O(1).
+#  O método remove_last realiza a remoção de um item do
+# final da lista, portanto sua Complexidade de tempo é O(1).
+#  O método remove_at realiza a remoção de um item em qualquer
+# lugar da lista, portanto sua Complexidade de tempo é O(n).
+#  O método get_element_at realiza a busca de um item em qualquer
+# local da lista, portanto sua Complexidade de tempo é O(n).
